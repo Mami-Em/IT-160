@@ -6,7 +6,7 @@
 ## Description:
 This program counts how many lines there are in a text inside of a `.txt` file. Features like counting how many times character like `'a', 'b', 'c' ...` have been found in the text has been implemented as well.
 
-## How to run it:
+## How to run the demo:
 
 1. Follow the link `Live Demo` and `run` the program
 
@@ -19,3 +19,10 @@ This program counts how many lines there are in a text inside of a `.txt` file. 
 3. The results will be printed right after the program re-print the text you entered.
 
 ![Alt text](./step5.png)
+
+## How to run it locally:
+
+1. Pull all the files.
+2. Edit the `doc.txt` file or create your own `.txt` file.
+3. Execute `main.cpp` in your terminale.
+4. When running the program, do not forget to call your `.txt` file by typing `./main <YourTextFileName>.txt`
