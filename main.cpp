@@ -64,6 +64,7 @@ int main(int argc, char **argv) {
     }
 
     // print total line
+    cout << "-----------------------------\n";
     cout << "Total line: " << count << endl;
 
     // print total char to search that was found
