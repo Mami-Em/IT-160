@@ -1,7 +1,7 @@
 # IT 160 FP
 ## Link for a Demo
 
-[https://replit.com/@MaminiainaRaval/IT-160?v=1](Live Demo)
+[Live Demo](https://replit.com/@MaminiainaRaval/IT-160?v=1)
 
 ## Description:
 This program counts how many lines there are in a text inside of a `.txt` file. Features like counting how many times character like `'a', 'b', 'c' ...` have been found in the text has been implemented as well.
